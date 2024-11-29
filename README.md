@@ -11,10 +11,10 @@ Dataset: Layoffs data from the tech industry (2019–2024).
 Imported the cleaned layoffs dataset into a MySQL database.
 Verified data integrity and structure for analysis.
 2. Exploratory Analysis
-Descriptive Statistics:
+## Descriptive Statistics:
 Calculated aggregate values (e.g., total layoffs).
-Time-Based Analysis:
+## Time-Based Analysis:
 Analyzed layoffs trends over months and years.
 Identified peak periods of layoffs.
-Industry Trends:
+## Industry Trends:
 Determined the hardest-hit sectors.
